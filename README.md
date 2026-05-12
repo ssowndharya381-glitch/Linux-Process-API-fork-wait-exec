@@ -93,7 +93,8 @@ int main() {
 }  
 
 ## OUTPUT   
-<img width="277" height="183" alt="Screenshot 2026-05-12 112833" src="https://github.com/user-attachments/assets/04f7f6f7-23b8-46a4-9a5d-5051f4b2ed87" />  
+<img width="828" height="593" alt="OS" src="https://github.com/user-attachments/assets/df9bf69a-f877-43e1-8c8f-d2cd0ffbfb1a" />  
+
 
 
 
