@@ -94,59 +94,5 @@ int main() {
 ## OUTPUT  
 <img width="422" height="271" alt="image" src="https://github.com/user-attachments/assets/f71b35a9-57ae-46e3-99fb-6bea2639b78a" />
 
-
-
-
-
-
-
-
-
-## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##OUTPUT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # RESULT:
 The programs are executed successfully.
