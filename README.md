@@ -45,7 +45,8 @@ int main() {
 }  
 
 ## output
-<img width="325" height="247" alt="image" src="https://github.com/user-attachments/assets/d64a17e0-ba67-4d0e-8099-549ac32deb23" />
+<img width="809" height="629" alt="exp2" src="https://github.com/user-attachments/assets/da157840-6a97-405b-8b0a-1474c6875060" />  
+
 
 ## 2.2-OS-Linux-Process API -exec(), exit() , wait()   
 Program:   
@@ -92,7 +93,8 @@ int main() {
 }  
 
 ## OUTPUT  
-<img width="422" height="271" alt="image" src="https://github.com/user-attachments/assets/f71b35a9-57ae-46e3-99fb-6bea2639b78a" />
+<img width="288" height="228" alt="Screenshot 2026-05-12 112833" src="https://github.com/user-attachments/assets/89892673-7c0b-40bb-a012-98f0a95d2eac" />
+
 
 # RESULT:
 The programs are executed successfully.
