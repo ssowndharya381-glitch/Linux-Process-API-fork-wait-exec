@@ -92,8 +92,9 @@ int main() {
     return 0;  
 }  
 
-## OUTPUT  
-<img width="288" height="228" alt="Screenshot 2026-05-12 112833" src="https://github.com/user-attachments/assets/89892673-7c0b-40bb-a012-98f0a95d2eac" />
+## OUTPUT   
+<img width="277" height="183" alt="Screenshot 2026-05-12 112833" src="https://github.com/user-attachments/assets/04f7f6f7-23b8-46a4-9a5d-5051f4b2ed87" />  
+
 
 
 # RESULT:
